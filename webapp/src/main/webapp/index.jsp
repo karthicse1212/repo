@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hi this my web project</h1>
+        <h1>Hi successfully automated</h1>
     </body>
 </html>
